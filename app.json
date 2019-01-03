@@ -1,0 +1,21 @@
+{
+  "name": "Kratos-bot",
+  "description": "Kratos bot for TCS Inframind ",
+  "env": {
+    "REQUEST_TOKEN": {
+      "description": "Recast bot token",
+      "value": "",
+      "required": false
+    },
+    "MOVIEDB_TOKEN": {
+      "description": "Your MovieDB API access token",
+      "value": "",
+      "required": false
+    },
+    "LANGUAGE": {
+      "description": "Your default bot language",
+      "value": "",
+      "required": false
+    }
+  }
+}
